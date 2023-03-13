@@ -4,7 +4,7 @@
     "About": "About",
     "Greeting": "Hi There!",
     "Im": "I'm",
-    "Typer1": "Java Software Developer",
+    "Typer1": "Full Stack Java Developer",
     "Typer2": "Open-source contributor",
     "Typer3": "Passionate about Science and Engineering",
     "AboutHeader": "About",
@@ -27,7 +27,8 @@
     "ProjSubtitle": "Here are a few projects I've worked on recently",
     "Proj1": "This is a platform where the service providers i.e. cleaners can register themselves to provide services through the portal, they would also receive an intimation in form of email once services has been booked by the customers. Customers can book the services by choosing the one of the listed service providers from the portal.",
     "Proj2": "High-performance header-only C++20 library for bayesian inference on discrete bayesian networks, supporting both CPU and GPU implementations (Cuda and OpenCL) of inference algorithms and copy-on-write (CoW) memory optimizations.",
-    "Proj3": "Python toolkit for quantum machine learning, developed on top of Qiskit, offers well-known supervised and unsupervised machine learning implementations for a gated quantum computer. Winner of a University award for best project.",
-    "Proj4": "Personal website portfolio for professional usage. Built with React, NodeJS and ❤️. Highly customizable and easy to use.",
+    "Proj3": "With this application, A faculty can take a group picture of the class, and the attendance of all present students gets stored automatically on the cloud! It really is that simple.",
+    "Proj4": "Personal website portfolio for professional usage. Built with React and ❤️. Highly customizable and easy to use.",
+    "Proj5": "Provide online Auction Management System  to the users. In this we store all auction data . In this we have given a list of functionality like creating invoices  , accounting , payment gateway etc. Bidders don't have to dig through a bunch of text to find the most important info . We can also export and import the auction data. We can do all the  analysis of the auctions and invoices easily . I worked on several important tasks for this project, including server side pagination, locale functionality, and the project's invoice module. ",
     "ThisWebsite": "This website"
 }

@@ -10,7 +10,6 @@ function Type() {
       options={{
         strings: [
           t('Typer1'),
-          t('Typer2'),
           t('Typer3')
         ],
         autoStart: true,

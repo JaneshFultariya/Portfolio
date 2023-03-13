@@ -3,10 +3,10 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 
-import bayesnet from "../../assets/Projects/liveChat-img.png";
+import bayesnet from "../../assets/Projects/wavebid-img.jpg";
 import quantum from "../../assets/Projects/facereco-img.png";
 import diffusers from "../../assets/Projects/helperland-img.png"
-import portfolio from "../../assets/Projects/portfolio.png";
+import portfolio from "../../assets/Projects/Portfolio-img.png";
 import { useTranslation } from "react-i18next";
 
 function Projects() {
@@ -32,7 +32,7 @@ function Projects() {
             />
           </Col>
           
-          <Col md={4} className="project-card">
+          {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={bayesnet}
               isBlog={false}
@@ -41,7 +41,18 @@ function Projects() {
               link="https://github.com/JaneshFultariya/LiveChat"
               isBtnVisible={true}
             />
-          </Col>
+          </Col> */}
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={bayesnet}
+              isBlog={false}
+              title="Auction Management System"
+              description={t('Proj5')}
+              isBtnVisible={false}
+              // link="https://github.com/mspronesti/mspronesti.github.io"
+            />
+          </Col>     
 
           <Col md={4} className="project-card">
             <ProjectCard
@@ -60,21 +71,12 @@ function Projects() {
               isBlog={false}
               title={t('ThisWebsite')}
               description={t('Proj4')}
-              link="https://github.com/mspronesti/mspronesti.github.io"
+              link="https://github.com/JaneshFultariya/Portfolio"
               isBtnVisible={true}
             />
           </Col>         
 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={portfolio}
-              isBlog={false}
-              title={t('ThisWebsite')}
-              description={t('Proj4')}
-              isBtnVisible={false}
-              // link="https://github.com/mspronesti/mspronesti.github.io"
-            />
-          </Col>         
+              
         </Row>
       </Container>
     </Container>
