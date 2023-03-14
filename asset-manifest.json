@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.8e3e661a.css",
+    "main.css": "/static/css/main.e282c57d.css",
     "main.js": "/static/js/main.66b8561b.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/helperland-img.png": "/static/media/helperland-img.04a2000e7054e4c2330d.png",
@@ -9,15 +9,15 @@
     "static/media/facereco-img.png": "/static/media/facereco-img.df2cff757f303bb6a982.png",
     "static/media/about.svg": "/static/media/about.fcd5f18ce5007375f7f31eaad46ce0f6.svg",
     "static/media/wavebid-img.jpg": "/static/media/wavebid-img.27f542507bc245619f3d.jpg",
-    "static/media/pre.svg": "/static/media/pre.375e2ef4ce68509fbb92.svg",
+    "static/media/pre.svg": "/static/media/pre.52550f7d5abaf76c0972.svg",
     "index.html": "/index.html",
     "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.8e3e661a.css.map": "/static/css/main.8e3e661a.css.map",
+    "main.e282c57d.css.map": "/static/css/main.e282c57d.css.map",
     "main.66b8561b.js.map": "/static/js/main.66b8561b.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e3e661a.css",
+    "static/css/main.e282c57d.css",
     "static/js/main.66b8561b.js"
   ]
 }
